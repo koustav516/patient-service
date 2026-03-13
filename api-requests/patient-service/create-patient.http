@@ -1,0 +1,13 @@
+### POST request to create a patient
+POST http://localhost:4001/patients
+Content-Type: application/json
+
+{
+  "name": "Steve Ralph",
+  "email": "steve123@gmail.com",
+  "address": "2740 S Cottage Grove",
+  "dateOfBirth": "1999-06-25",
+  "registeredDate": "2025-10-11"
+}
+
+###

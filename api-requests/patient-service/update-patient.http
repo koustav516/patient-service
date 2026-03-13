@@ -1,0 +1,13 @@
+### PUT request to update a patient
+PUT http://localhost:4001/patients/ed908cf9-b782-4b05-9fc8-b5fbf77da90f
+Content-Type: application/json
+
+{
+  "name": "Steve Ralph",
+  "email": "steve123@gmail.com",
+  "address": "3440 S Cottage Grove",
+  "dateOfBirth": "1998-06-25",
+  "registeredDate": "2025-10-11"
+}
+
+###
