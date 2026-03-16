@@ -3,11 +3,11 @@ POST http://localhost:4001/patients
 Content-Type: application/json
 
 {
-  "name": "Wolf Reed",
-  "email": "swolf@gmail.com",
-  "address": "112 main st",
-  "dateOfBirth": "1989-07-12",
-  "registeredDate": "2025-11-12"
+  "name": "Roy Mukherjee",
+  "email": "roy@gmail.com",
+  "address": "12/2 MG Road",
+  "dateOfBirth": "2001-01-11",
+  "registeredDate": "2026-01-09"
 }
 
 ###
